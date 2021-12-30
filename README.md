@@ -1,4 +1,3 @@
-# myblog
 hi! my first blog.it's a test.
-master branch
+new branch feature1
 
